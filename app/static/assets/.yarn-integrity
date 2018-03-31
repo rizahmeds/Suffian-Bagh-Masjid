@@ -1,0 +1,24 @@
+{
+  "nodeVersion": "v6.11.4",
+  "modulesFolders": [
+    "app/static/assets"
+  ],
+  "flags": [],
+  "linkedModules": [],
+  "topLevelPatterns": [
+    "bootstrap@3.3.7",
+    "font-awesome@^4.7.0",
+    "jquery@^3.2.1",
+    "moment@^2.21.0",
+    "sweetalert2@^7.15.1"
+  ],
+  "lockfileEntries": {
+    "bootstrap@3.3.7": "https://registry.yarnpkg.com/bootstrap/-/bootstrap-3.3.7.tgz#5a389394549f23330875a3b150656574f8a9eb71",
+    "font-awesome@^4.7.0": "https://registry.yarnpkg.com/font-awesome/-/font-awesome-4.7.0.tgz#8fa8cf0411a1a31afd07b06d2902bb9fc815a133",
+    "jquery@^3.2.1": "https://registry.yarnpkg.com/jquery/-/jquery-3.3.1.tgz#958ce29e81c9790f31be7792df5d4d95fc57fbca",
+    "moment@^2.21.0": "https://registry.yarnpkg.com/moment/-/moment-2.21.0.tgz#2a114b51d2a6ec9e6d83cf803f838a878d8a023a",
+    "sweetalert2@^7.15.1": "https://registry.yarnpkg.com/sweetalert2/-/sweetalert2-7.16.0.tgz#6138887079cc487ed88567e441965667d98ef2cc"
+  },
+  "files": [],
+  "artifacts": {}
+}

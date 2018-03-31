@@ -1,0 +1,205 @@
+{% extends 'base.html' %} {% block head %}
+<style>
+.parallax {
+    /* The image used */
+    background-image: url("/static/img/slider/bg2.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+</style>
+{% endblock %} 
+{% block body %}
+<section id="main-slider" class="no-margin">
+    <div class="carousel slide">
+        <ol class="carousel-indicators">
+            <li data-target="#main-slider" data-slide-to="0" class="active"></li>
+            <li data-target="#main-slider" data-slide-to="1"></li>
+            <li data-target="#main-slider" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+            <div class="item active" style="background-image:url(/static/img/slider/bg1.jpg)">
+                <div class="container">
+                    <div class="row slide-margin">
+                        <div class="col-sm-6">
+                            <div class="carousel-content">
+                                <h1 class="animation animated-item-1">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>
+                                <h2 class="animation animated-item-2">As-Salam Alaykoum,<br>Welcome to Jama Masjid Suffian Bagh.</h2>
+                                <a class="btn-slide animation animated-item-3" href="#">Read More</a>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 hidden-xs animation animated-item-4">
+                            <div class="slider-img">
+                                <img src="/static/img/slider/img1.png" class="img-responsive">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item" style="background-image:url(/static/img/slider/bg2.jpg)">
+                <div class="container">
+                    <div class="row slide-margin">
+                        <div class="col-sm-6">
+                            <div class="carousel-content">
+                                <h2> When entering the Masjid, one should recite the following Du'aa:</h2>
+                                <h1 class="animation animated-item-1">اللهم افتح لى ابواب رحمتك</h1>
+                                <h2 class="animation animated-item-2">O Allaah, open the doors of Your Mercy for me.</h2>
+                                <a class="btn-slide animation animated-item-3" href="#">Read More</a>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 hidden-xs animation animated-item-4">
+                            <div class="slider-img">
+                                <img src="/static/img/slider/img2.png" class="img-responsive">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item" style="background-image:url(/static/img/slider/bg3.jpg)">
+                <div class="container">
+                    <div class="row slide-margin">
+                        <div class="col-sm-6">
+                            <div class="carousel-content">
+                                <h2>When leaving the Masjid, one should recite the following Du'aa:</h2>
+                                <h1 class="animation animated-item-1">اللهم انى اسالك من فضلك</h1>
+                                <h2 class="animation animated-item-2">O Allaah, I seek of You Your Grace.</h2>
+                                <a class="btn-slide animation animated-item-3" href="#">Read More</a>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 hidden-xs animation animated-item-4">
+                            <div class="slider-img">
+                                <img src="/static/img/slider/img3.png" class="img-responsive">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <a class="prev hidden-xs" href="#main-slider" data-slide="prev">
+<i class="fa fa-chevron-left"></i>
+</a>
+    <a class="next hidden-xs" href="#main-slider" data-slide="next">
+<i class="fa fa-chevron-right"></i>
+</a>
+</section>
+
+<section id="feature">
+    <div class="container">
+        <div class="center wow fadeInDown">
+            <h2>Five Pillars of Islam<br>
+            اسلام کے پانچ ستون</h2>
+            <br>
+            <p class="lead">The five pillars of Islam define the basic identity of Muslims – their faith, beliefs and practices – and bind together a worldwide community of over a billion believers into a fellowship of shared values and concerns.
+            </p>
+        </div>
+        <div class="row">
+            <div class="features">
+                <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                    <div class="feature-wrap">
+                        <i class="fa fa-pagelines"></i>
+                        <h2>Shahada (Faith) ایمان</h2>
+                        <p>“There is no true God but God and Muhammad is the Messenger of God.”</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                    <div class="feature-wrap">
+                        <i class="fa fa-bullhorn"></i>
+                        <h2>Namaz (Prayer) نماز</h2>
+                        <p>"Five daily prayers at dawn,noon,mid-afternoon,sunset and evening."</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                    <div class="feature-wrap">
+                        <i class="fa fa-inr"></i>
+                        <h2>Zakat (Charity) زکات</h2>
+                        <p>"Fixed proportions of a Muslim’s possessions for the welfare of its neediest members."</p>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                    <div class="feature-wrap">
+                        <i class="fa fa-leaf"></i>
+                        <h2>Rozaah (Fasting) روزاہ</h2>
+                        <p>"Ordained in the Holy Qur’an, the fast is an act of deep personal worship in which Muslims seek a richer perception of God."</p>
+                    </div>
+                </div>
+                <!-- <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                    <div class="feature-wrap">
+                        
+                    </div>
+                </div> -->
+                <div class="col-md-6 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                    <div class="feature-wrap">
+                        <i class="fa fa-plane"></i>
+                        <h2>Hajj (Pilgrimage) حج</h2>
+                        <p>"Muslims who are physically and financially able to make the journey to Makkah, the Hajj is a once in a lifetime duty."</p>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="recent-works" style="padding: 0px">
+    <div class="fluid-container parallax">
+        <div class="row">
+            Umar bin Al-Khattab
+I heard the Messenger of Allah (saw) say: ‘Whoever builds a masjid (mosque) in which the Name of Allah is mentioned, Allah will build a house for him in Paradise.(Sahih)
+        </div>
+    </div>
+</section>
+
+<section id="services" class="service-item">
+    <div class="container">
+        <div class="center wow fadeInDown">
+            <h2>Namaz Times | Special Islamic Days</h2>
+            <h4 class="lead">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h4>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-md-4 col-md-offset-4">
+                <div class="media services-wrap wow fadeInDown center">
+                    <div class="media-body">
+                        <h3 class="media-heading">Namaz Times<br>اوقات ناماز</h3>
+                        <iframe id="iframe" style="width: 182px; height: 310px; border: 1px solid #ddd;" frameborder="0" scrolling="no" src="https://www.islamicfinder.org/prayer-widget/43552344/shafi/3/0/18.0/18.0"> </iframe>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 ">
+                <div class="media services-wrap wow fadeInDown center" style="padding-bottom: 5px">
+                    <div class="media-body">
+                        <!-- <h3 class="media-heading">Special Islamic Days<br>خاص اسلامی دن</h3>  -->       
+                        <iframe style="width: 240px; height: 415px; border: 1px solid #ddd;" frameBorder="0" scrolling="no" src="https://www.islamicfinder.org/specialislamicdays"> </iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="conatcat-info">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8">
+                <div class="media contact-info wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                    <div class="pull-left">
+                        <img class="img-responsive" src="/static/img/service/phone.png" width="60" height="60" alt="Phone">
+                    </div>
+                    <div class="media-body">
+                        <h2>Have a question about our Masjid or Islam?</h2>
+                        <p>بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
+                            <br>Contact +0123 456 70 80</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{% endblock %}

@@ -1,0 +1,89 @@
+{% extends 'base.html' %} {% block head %}
+
+{% endblock %} 
+
+{% block body %}
+    <section id="contact-info">
+        <div class="center">
+            <h2>How to Reach Us?</h2>
+            <p class="lead">There are almost 7 billion people in this planet, Allah (SWT) has chosen you among all these humans to be a Muslim. Be thankful, be grateful and work for it.</p>
+        </div>
+        <div class="gmap-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-5 text-center">
+                        <div class="gmap">
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3423.346021204781!2d75.86254111513561!3d30.90495088157741!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a830fcdf260a7%3A0xd8c25a3ae328d40!2sSuffian+Bagh+Rd%2C+Ludhiana%2C+Punjab+141008!5e0!3m2!1sen!2sin!4v1522299703786" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <div class="col-sm-7 map-content">
+                        <ul class="row">
+                            <li class="col-sm-6">
+                                <address>
+                                    <h2>JAMA MASJID SUFFIAN BAGH</h2>
+                                    <h3>Kidwai Nagar,
+                                        <br> Suffian Bagh Chowk
+                                        <br> Ludhiana-141008
+                                        <br> PUNJAB</h3>
+                                    <p>Phone:670-898-2847
+                                        <br> Email Address:info@domain.com</p>
+                                </address>
+                            </li>
+                        </ul>
+                        <ul class="row">
+                            <li class="col-sm-6">
+                                <h2>Contact: Sabir Alam</h2>
+                                <h3>Phone: 9646636610</h3>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="contact-page">
+        <div class="container">
+            <div class="center">
+                <h2>Drop Your Message</h2>
+                <p class="lead">Stop. Breathe. Remind yourself – Allah is with you. He’s watching over you. He’s testing you because He loves you. He hasn’t forgotten you. He’s making you stronger. Now smile. Alhamdulillah.</p>
+            </div>
+            <div class="row contact-wrap">
+                <div class="status alert alert-success" style="display:none"></div>
+                <form id="main-contact-form" class="contact-form" name="contact-form" method="post" action="sendemail.php">
+                    <div class="col-sm-5 col-sm-offset-1">
+                        <div class="form-group">
+                            <label>Name *</label>
+                            <input type="text" name="name" class="form-control" required="required">
+                        </div>
+                        <div class="form-group">
+                            <label>Email *</label>
+                            <input type="email" name="email" class="form-control" required="required">
+                        </div>
+                        <div class="form-group">
+                            <label>Phone</label>
+                            <input type="number" class="form-control">
+                        </div>
+                        <div class="form-group">
+                            <label>Company Name</label>
+                            <input type="text" class="form-control">
+                        </div>
+                    </div>
+                    <div class="col-sm-5">
+                        <div class="form-group">
+                            <label>Subject *</label>
+                            <input type="text" name="subject" class="form-control" required="required">
+                        </div>
+                        <div class="form-group">
+                            <label>Message *</label>
+                            <textarea name="message" id="message" required="required" class="form-control" rows="8"></textarea>
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" name="submit" class="btn btn-primary btn-lg" required="required">Submit Message</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </section>
+    
+ {% endblock %}

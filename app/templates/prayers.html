@@ -1,0 +1,50 @@
+{% extends 'base.html' %} {% block head %}
+
+{% endblock %} 
+
+{% block body %}
+    <section id="feature" class="transparent-bg">
+        <div class="container">
+            <div class="center wow fadeInDown">
+                <h2>Prayer Times</h2>
+                <p class="lead">Add Prayer times to your website. Automatically updates everyday, please visit <a href="https://freeislamictemplates.appspot.com/">https://freeislamictemplates.appspot.com/</a> for instructions on how to set it up for your location.</p>
+                <p>Use prayers.php after setting up prayer times. This will not display the prayer times.</p>
+            </div>
+            <div class="row">
+                <div class="features">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <div class="prayer-times1 shadow-box">
+                                <h3>Prayer Times</h3>
+                                <iframe id="iframe" style="width: 182px; height: 358px; border: 1px solid #ddd;" frameborder="0" scrolling="no" src="https://www.islamicfinder.org/prayer-widget/43552344/shafi/3/0/18.0/18.0"> </iframe>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <div class="prayer-times2 shadow-box">
+                                <h3> Special Islamic Days</h3>
+                                <iframe style="width: 240px; height: 460px; border: 1px solid #ddd;" frameBorder="0" scrolling="no" src="https://www.islamicfinder.org/specialislamicdays"> </iframe>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <div class="prayer-times3 shadow-box">
+                                <h3>Gregorian/Hijri Date Converter</h3>
+                                <iframe id="iframe2" style="width: 330px; height: 144px; border: 1px solid #ddd;" frameborder="0" scrolling="no" src="https://www.islamicfinder.org/dateconvertor-widget"> </iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.prettyPhoto.js"></script>
+    <script src="js/jquery.isotope.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/wow.min.js"></script>
+{% endblock %}
