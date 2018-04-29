@@ -11792,3 +11792,664 @@
  2018-03-31 13:00:49,107 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
  2018-03-31 13:00:49,163 basehttp.py    :124   INFO     "GET /static/img/slider/bg2.jpg HTTP/1.1" 200 963628
  2018-03-31 13:00:49,218 basehttp.py    :124   INFO     "GET /static/img/slider/bg3.jpg HTTP/1.1" 200 4238725
+ 2018-04-07 20:18:02,864 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 18344
+ 2018-04-07 20:18:02,985 basehttp.py    :124   INFO     "GET /static/css/font-awesome.min.css HTTP/1.1" 200 17780
+ 2018-04-07 20:18:02,986 basehttp.py    :124   INFO     "GET /static/css/prettyPhoto.css HTTP/1.1" 200 19888
+ 2018-04-07 20:18:02,993 basehttp.py    :124   INFO     "GET /static/css/bootstrap.min.css HTTP/1.1" 200 99558
+ 2018-04-07 20:18:03,042 basehttp.py    :124   INFO     "GET /static/css/responsive.css HTTP/1.1" 200 4479
+ 2018-04-07 20:18:03,051 basehttp.py    :124   INFO     "GET /static/css/animate.min.css HTTP/1.1" 200 55844
+ 2018-04-07 20:18:03,067 basehttp.py    :124   INFO     "GET /static/css/main.css HTTP/1.1" 200 47982
+ 2018-04-07 20:18:03,080 basehttp.py    :124   INFO     "GET /static/js/jquery.js HTTP/1.1" 200 93106
+ 2018-04-07 20:18:03,081 basehttp.py    :124   INFO     "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+ 2018-04-07 20:18:03,081 basehttp.py    :124   INFO     "GET /static/js/bootstrap.min.js HTTP/1.1" 200 27822
+ 2018-04-07 20:18:03,088 basehttp.py    :124   INFO     "GET /static/js/wow.min.js HTTP/1.1" 200 4776
+ 2018-04-07 20:18:03,090 basehttp.py    :124   INFO     "GET /static/js/main.js HTTP/1.1" 200 1861
+ 2018-04-07 20:18:03,091 basehttp.py    :124   INFO     "GET /static/js/jquery.isotope.min.js HTTP/1.1" 200 16033
+ 2018-04-07 20:18:03,098 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-07 20:18:03,098 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-07 20:18:03,129 basehttp.py    :124   INFO     "GET /static/img/logo1.png HTTP/1.1" 200 4880
+ 2018-04-07 20:18:03,175 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-07 20:18:03,177 basehttp.py    :124   INFO     "GET /static/img/slider/img1.png HTTP/1.1" 200 44025
+ 2018-04-07 20:18:03,179 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-07 20:18:03,214 basehttp.py    :124   INFO     "GET /static/img/slider/img3.png HTTP/1.1" 200 35416
+ 2018-04-07 20:18:03,214 basehttp.py    :124   INFO     "GET /static/img/slider/img2.png HTTP/1.1" 200 40606
+ 2018-04-07 20:18:03,215 basehttp.py    :124   INFO     "GET /static/img/contact.png HTTP/1.1" 200 21344
+ 2018-04-07 20:18:03,215 basehttp.py    :124   INFO     "GET /static/img/service/phone.png HTTP/1.1" 200 807
+ 2018-04-07 20:18:03,240 basehttp.py    :124   INFO     "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+ 2018-04-07 20:18:03,257 basehttp.py    :124   INFO     "GET /static/img/namaz2.jpg HTTP/1.1" 200 180268
+ 2018-04-07 20:18:03,422 basehttp.py    :124   INFO     "GET /static/img/slider/bg1.jpg HTTP/1.1" 200 821797
+ 2018-04-07 20:18:03,438 basehttp.py    :124   INFO     "GET /static/img/slider/bg3.jpg HTTP/1.1" 200 4238725
+ 2018-04-07 20:18:03,450 basehttp.py    :124   INFO     "GET /static/img/slider/bg2.jpg HTTP/1.1" 200 963628
+ 2018-04-07 20:18:15,062 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
+ 2018-04-07 20:20:04,702 basehttp.py    :124   INFO     "GET /portfolio HTTP/1.1" 200 12293
+ 2018-04-07 20:20:04,753 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-07 20:20:04,754 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-07 20:20:04,831 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-07 20:20:04,832 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-07 20:20:13,828 basehttp.py    :124   INFO     "GET /school HTTP/1.1" 200 9384
+ 2018-04-07 20:20:13,880 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-07 20:20:13,881 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-07 20:20:13,918 basehttp.py    :124   INFO     "GET /static/img/ips.png HTTP/1.1" 200 3314
+ 2018-04-07 20:20:13,932 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-07 20:20:13,933 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-07 20:20:13,935 basehttp.py    :124   INFO     "GET /static/img/islamia-school.jpg HTTP/1.1" 200 111295
+ 2018-04-07 20:21:10,119 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 18344
+ 2018-04-07 20:21:10,153 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-07 20:21:10,154 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-07 20:21:10,202 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-07 20:21:10,203 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-10 13:02:06,361 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 18344
+ 2018-04-10 13:02:06,465 basehttp.py    :124   INFO     "GET /static/css/main.css HTTP/1.1" 200 47982
+ 2018-04-10 13:02:06,488 basehttp.py    :124   INFO     "GET /static/js/jquery.js HTTP/1.1" 200 93106
+ 2018-04-10 13:02:06,502 basehttp.py    :124   INFO     "GET /static/css/prettyPhoto.css HTTP/1.1" 200 19888
+ 2018-04-10 13:02:06,503 basehttp.py    :124   INFO     "GET /static/css/font-awesome.min.css HTTP/1.1" 200 17780
+ 2018-04-10 13:02:06,517 basehttp.py    :124   INFO     "GET /static/css/responsive.css HTTP/1.1" 200 4479
+ 2018-04-10 13:02:06,519 basehttp.py    :124   INFO     "GET /static/css/animate.min.css HTTP/1.1" 200 55844
+ 2018-04-10 13:02:06,522 basehttp.py    :124   INFO     "GET /static/js/bootstrap.min.js HTTP/1.1" 200 27822
+ 2018-04-10 13:02:06,524 basehttp.py    :124   INFO     "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+ 2018-04-10 13:02:06,547 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-10 13:02:06,550 basehttp.py    :124   INFO     "GET /static/js/jquery.isotope.min.js HTTP/1.1" 200 16033
+ 2018-04-10 13:02:06,552 basehttp.py    :124   INFO     "GET /static/css/bootstrap.min.css HTTP/1.1" 200 99558
+ 2018-04-10 13:02:06,554 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-10 13:02:06,595 basehttp.py    :124   INFO     "GET /static/js/main.js HTTP/1.1" 200 1861
+ 2018-04-10 13:02:06,610 basehttp.py    :124   INFO     "GET /static/js/wow.min.js HTTP/1.1" 200 4776
+ 2018-04-10 13:02:06,649 basehttp.py    :124   INFO     "GET /static/img/logo1.png HTTP/1.1" 200 4880
+ 2018-04-10 13:02:06,680 basehttp.py    :124   INFO     "GET /static/img/slider/img1.png HTTP/1.1" 200 44025
+ 2018-04-10 13:02:06,697 basehttp.py    :124   INFO     "GET /static/img/slider/img2.png HTTP/1.1" 200 40606
+ 2018-04-10 13:02:06,710 basehttp.py    :124   INFO     "GET /static/img/slider/img3.png HTTP/1.1" 200 35416
+ 2018-04-10 13:02:06,854 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-10 13:02:06,855 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-10 13:02:06,906 basehttp.py    :124   INFO     "GET /static/img/contact.png HTTP/1.1" 200 21344
+ 2018-04-10 13:02:06,937 basehttp.py    :124   INFO     "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+ 2018-04-10 13:02:07,025 basehttp.py    :124   INFO     "GET /static/img/slider/bg2.jpg HTTP/1.1" 200 963628
+ 2018-04-10 13:02:07,075 basehttp.py    :124   INFO     "GET /static/img/namaz2.jpg HTTP/1.1" 200 180268
+ 2018-04-10 13:02:07,130 basehttp.py    :124   INFO     "GET /static/img/slider/bg1.jpg HTTP/1.1" 200 821797
+ 2018-04-10 13:02:07,155 basehttp.py    :124   INFO     "GET /static/img/slider/bg3.jpg HTTP/1.1" 200 4238725
+ 2018-04-10 13:02:09,891 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
+ 2018-04-28 13:32:54,120 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 18344
+ 2018-04-28 13:32:54,273 basehttp.py    :124   INFO     "GET /static/css/responsive.css HTTP/1.1" 200 4479
+ 2018-04-28 13:32:54,460 basehttp.py    :124   INFO     "GET /static/css/bootstrap.min.css HTTP/1.1" 200 99558
+ 2018-04-28 13:32:54,461 basehttp.py    :124   INFO     "GET /static/css/prettyPhoto.css HTTP/1.1" 200 19888
+ 2018-04-28 13:32:54,461 basehttp.py    :124   INFO     "GET /static/css/font-awesome.min.css HTTP/1.1" 200 17780
+ 2018-04-28 13:32:54,488 basehttp.py    :124   INFO     "GET /static/css/animate.min.css HTTP/1.1" 200 55844
+ 2018-04-28 13:32:54,497 basehttp.py    :124   INFO     "GET /static/css/main.css HTTP/1.1" 200 47982
+ 2018-04-28 13:32:54,646 basehttp.py    :124   INFO     "GET /static/js/jquery.isotope.min.js HTTP/1.1" 200 16033
+ 2018-04-28 13:32:54,649 basehttp.py    :124   INFO     "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+ 2018-04-28 13:32:54,652 basehttp.py    :124   INFO     "GET /static/js/wow.min.js HTTP/1.1" 200 4776
+ 2018-04-28 13:32:54,653 basehttp.py    :124   INFO     "GET /static/js/main.js HTTP/1.1" 200 1861
+ 2018-04-28 13:32:54,667 basehttp.py    :124   INFO     "GET /static/js/bootstrap.min.js HTTP/1.1" 200 27822
+ 2018-04-28 13:32:54,668 basehttp.py    :124   INFO     "GET /static/js/jquery.js HTTP/1.1" 200 93106
+ 2018-04-28 13:32:54,676 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-28 13:32:54,683 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-28 13:32:54,719 basehttp.py    :124   INFO     "GET /static/img/logo1.png HTTP/1.1" 200 4880
+ 2018-04-28 13:32:54,775 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-28 13:32:54,776 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-28 13:32:54,863 basehttp.py    :124   INFO     "GET /static/img/slider/img1.png HTTP/1.1" 200 44025
+ 2018-04-28 13:32:54,985 basehttp.py    :124   INFO     "GET /static/img/slider/img2.png HTTP/1.1" 200 40606
+ 2018-04-28 13:32:55,033 basehttp.py    :124   INFO     "GET /static/img/contact.png HTTP/1.1" 200 21344
+ 2018-04-28 13:32:55,034 basehttp.py    :124   INFO     "GET /static/img/service/phone.png HTTP/1.1" 200 807
+ 2018-04-28 13:32:55,037 basehttp.py    :124   INFO     "GET /static/img/slider/img3.png HTTP/1.1" 200 35416
+ 2018-04-28 13:32:55,117 basehttp.py    :124   INFO     "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+ 2018-04-28 13:32:55,135 basehttp.py    :124   INFO     "GET /static/img/slider/bg1.jpg HTTP/1.1" 200 821797
+ 2018-04-28 13:32:55,216 basehttp.py    :124   INFO     "GET /static/img/slider/bg2.jpg HTTP/1.1" 200 963628
+ 2018-04-28 13:32:55,245 basehttp.py    :124   INFO     "GET /static/img/namaz2.jpg HTTP/1.1" 200 180268
+ 2018-04-28 13:32:55,269 basehttp.py    :124   INFO     "GET /static/img/slider/bg3.jpg HTTP/1.1" 200 4238725
+ 2018-04-28 13:33:11,001 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
+ 2018-04-29 19:57:25,419 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 18344
+ 2018-04-29 19:57:25,642 basehttp.py    :124   INFO     "GET /static/css/animate.min.css HTTP/1.1" 200 55844
+ 2018-04-29 19:57:25,655 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 19:57:25,660 basehttp.py    :124   INFO     "GET /static/css/bootstrap.min.css HTTP/1.1" 200 99558
+ 2018-04-29 19:57:25,679 basehttp.py    :124   INFO     "GET /static/css/main.css HTTP/1.1" 200 47982
+ 2018-04-29 19:57:25,713 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 19:57:25,890 basehttp.py    :124   INFO     "GET /static/js/bootstrap.min.js HTTP/1.1" 200 27822
+ 2018-04-29 19:57:25,891 basehttp.py    :124   INFO     "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+ 2018-04-29 19:57:25,892 basehttp.py    :124   INFO     "GET /static/js/jquery.js HTTP/1.1" 200 93106
+ 2018-04-29 19:57:25,972 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 19:57:25,973 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 19:57:26,004 basehttp.py    :124   INFO     "GET /static/img/slider/img1.png HTTP/1.1" 200 44025
+ 2018-04-29 19:57:26,134 basehttp.py    :124   INFO     "GET /static/img/contact.png HTTP/1.1" 200 21344
+ 2018-04-29 19:57:26,135 basehttp.py    :124   INFO     "GET /static/img/slider/img2.png HTTP/1.1" 200 40606
+ 2018-04-29 19:57:26,149 basehttp.py    :124   INFO     "GET /static/img/slider/img3.png HTTP/1.1" 200 35416
+ 2018-04-29 19:57:26,173 basehttp.py    :124   INFO     "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+ 2018-04-29 19:57:26,301 basehttp.py    :124   INFO     "GET /static/img/namaz2.jpg HTTP/1.1" 200 180268
+ 2018-04-29 19:57:26,321 basehttp.py    :124   INFO     "GET /static/img/slider/bg1.jpg HTTP/1.1" 200 821797
+ 2018-04-29 19:57:26,335 basehttp.py    :124   INFO     "GET /static/img/slider/bg3.jpg HTTP/1.1" 200 4238725
+ 2018-04-29 19:57:26,382 basehttp.py    :124   INFO     "GET /static/img/slider/bg2.jpg HTTP/1.1" 200 963628
+ 2018-04-29 19:59:04,857 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 18351
+ 2018-04-29 19:59:04,895 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 19:59:04,896 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 19:59:04,977 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 19:59:04,978 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 19:59:06,420 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
+ 2018-04-29 20:00:14,281 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 18160
+ 2018-04-29 20:00:14,354 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:00:14,357 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:00:14,472 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:00:14,473 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:00:17,644 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
+ 2018-04-29 20:02:11,438 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17704
+ 2018-04-29 20:02:11,584 basehttp.py    :124   INFO     "GET /static/css/bootstrap.min.css HTTP/1.1" 200 99558
+ 2018-04-29 20:02:11,604 basehttp.py    :124   INFO     "GET /static/css/main.css HTTP/1.1" 200 47982
+ 2018-04-29 20:02:11,622 basehttp.py    :124   INFO     "GET /static/css/responsive.css HTTP/1.1" 200 4479
+ 2018-04-29 20:02:11,623 basehttp.py    :124   INFO     "GET /static/css/animate.min.css HTTP/1.1" 200 55844
+ 2018-04-29 20:02:11,666 basehttp.py    :124   INFO     "GET /static/css/font-awesome.min.css HTTP/1.1" 200 17780
+ 2018-04-29 20:02:11,667 basehttp.py    :124   INFO     "GET /static/css/prettyPhoto.css HTTP/1.1" 200 19888
+ 2018-04-29 20:02:11,726 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:02:11,727 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:02:11,748 basehttp.py    :124   INFO     "GET /static/js/jquery.isotope.min.js HTTP/1.1" 200 16033
+ 2018-04-29 20:02:11,759 basehttp.py    :124   INFO     "GET /static/js/main.js HTTP/1.1" 200 1861
+ 2018-04-29 20:02:11,762 basehttp.py    :124   INFO     "GET /static/js/jquery.js HTTP/1.1" 200 93106
+ 2018-04-29 20:02:11,767 basehttp.py    :124   INFO     "GET /static/js/wow.min.js HTTP/1.1" 200 4776
+ 2018-04-29 20:02:11,767 basehttp.py    :124   INFO     "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+ 2018-04-29 20:02:11,769 basehttp.py    :124   INFO     "GET /static/js/bootstrap.min.js HTTP/1.1" 200 27822
+ 2018-04-29 20:02:11,809 basehttp.py    :124   INFO     "GET /static/img/logo1.png HTTP/1.1" 200 4880
+ 2018-04-29 20:02:11,853 basehttp.py    :124   INFO     "GET /static/img/slider/img1.png HTTP/1.1" 200 44025
+ 2018-04-29 20:02:11,870 basehttp.py    :124   INFO     "GET /static/img/slider/img2.png HTTP/1.1" 200 40606
+ 2018-04-29 20:02:11,893 basehttp.py    :124   INFO     "GET /static/img/slider/img3.png HTTP/1.1" 200 35416
+ 2018-04-29 20:02:11,916 basehttp.py    :124   INFO     "GET /static/img/service/phone.png HTTP/1.1" 200 807
+ 2018-04-29 20:02:12,015 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:02:12,015 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:02:12,057 basehttp.py    :124   INFO     "GET /static/img/contact.png HTTP/1.1" 200 21344
+ 2018-04-29 20:02:12,142 basehttp.py    :124   INFO     "GET /static/img/slider/bg3.jpg HTTP/1.1" 200 4238725
+ 2018-04-29 20:02:12,159 basehttp.py    :124   INFO     "GET /static/img/namaz2.jpg HTTP/1.1" 200 180268
+ 2018-04-29 20:02:12,175 basehttp.py    :124   INFO     "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+ 2018-04-29 20:02:12,196 basehttp.py    :124   INFO     "GET /static/img/slider/bg2.jpg HTTP/1.1" 200 963628
+ 2018-04-29 20:02:12,212 basehttp.py    :124   INFO     "GET /static/img/slider/bg1.jpg HTTP/1.1" 200 821797
+ 2018-04-29 20:02:41,694 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17720
+ 2018-04-29 20:02:41,733 basehttp.py    :124   INFO     "GET /static/css/prettyPhoto.css HTTP/1.1" 200 19888
+ 2018-04-29 20:02:41,736 basehttp.py    :124   INFO     "GET /static/css/bootstrap.min.css HTTP/1.1" 200 99558
+ 2018-04-29 20:02:41,744 basehttp.py    :124   INFO     "GET /static/css/font-awesome.min.css HTTP/1.1" 200 17780
+ 2018-04-29 20:02:41,755 basehttp.py    :124   INFO     "GET /static/css/animate.min.css HTTP/1.1" 200 55844
+ 2018-04-29 20:02:41,757 basehttp.py    :124   INFO     "GET /static/css/main.css HTTP/1.1" 200 47982
+ 2018-04-29 20:02:41,761 basehttp.py    :124   INFO     "GET /static/css/responsive.css HTTP/1.1" 200 4479
+ 2018-04-29 20:02:41,767 basehttp.py    :124   INFO     "GET /static/js/bootstrap.min.js HTTP/1.1" 200 27822
+ 2018-04-29 20:02:41,763 basehttp.py    :124   INFO     "GET /static/js/jquery.js HTTP/1.1" 200 93106
+ 2018-04-29 20:02:41,778 basehttp.py    :124   INFO     "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+ 2018-04-29 20:02:41,782 basehttp.py    :124   INFO     "GET /static/js/jquery.isotope.min.js HTTP/1.1" 200 16033
+ 2018-04-29 20:02:41,799 basehttp.py    :124   INFO     "GET /static/js/main.js HTTP/1.1" 200 1861
+ 2018-04-29 20:02:41,817 basehttp.py    :124   INFO     "GET /static/js/wow.min.js HTTP/1.1" 200 4776
+ 2018-04-29 20:02:41,829 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:02:41,829 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:02:41,834 basehttp.py    :124   INFO     "GET /static/img/logo1.png HTTP/1.1" 200 4880
+ 2018-04-29 20:02:41,837 basehttp.py    :124   INFO     "GET /static/img/slider/img1.png HTTP/1.1" 200 44025
+ 2018-04-29 20:02:41,843 basehttp.py    :124   INFO     "GET /static/img/slider/img2.png HTTP/1.1" 200 40606
+ 2018-04-29 20:02:41,848 basehttp.py    :124   INFO     "GET /static/img/slider/img3.png HTTP/1.1" 200 35416
+ 2018-04-29 20:02:41,857 basehttp.py    :124   INFO     "GET /static/img/service/phone.png HTTP/1.1" 200 807
+ 2018-04-29 20:02:41,903 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:02:41,904 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:02:41,974 basehttp.py    :124   INFO     "GET /static/img/contact.png HTTP/1.1" 200 21344
+ 2018-04-29 20:02:41,977 basehttp.py    :124   INFO     "GET /static/img/namaz2.jpg HTTP/1.1" 200 180268
+ 2018-04-29 20:02:41,984 basehttp.py    :124   INFO     "GET /static/img/slider/bg2.jpg HTTP/1.1" 200 963628
+ 2018-04-29 20:02:42,013 basehttp.py    :124   INFO     "GET /static/img/slider/bg1.jpg HTTP/1.1" 200 821797
+ 2018-04-29 20:02:42,015 basehttp.py    :124   INFO     "GET /static/img/slider/bg3.jpg HTTP/1.1" 200 4238725
+ 2018-04-29 20:02:42,017 basehttp.py    :124   INFO     "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+ 2018-04-29 20:03:43,851 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17730
+ 2018-04-29 20:03:43,895 basehttp.py    :124   INFO     "GET /static/css/animate.min.css HTTP/1.1" 200 55844
+ 2018-04-29 20:03:43,898 basehttp.py    :124   INFO     "GET /static/css/prettyPhoto.css HTTP/1.1" 200 19888
+ 2018-04-29 20:03:43,903 basehttp.py    :124   INFO     "GET /static/css/font-awesome.min.css HTTP/1.1" 200 17780
+ 2018-04-29 20:03:43,905 basehttp.py    :124   INFO     "GET /static/css/bootstrap.min.css HTTP/1.1" 200 99558
+ 2018-04-29 20:03:43,906 basehttp.py    :124   INFO     "GET /static/css/main.css HTTP/1.1" 200 47982
+ 2018-04-29 20:03:43,910 basehttp.py    :124   INFO     "GET /static/css/responsive.css HTTP/1.1" 200 4479
+ 2018-04-29 20:03:43,914 basehttp.py    :124   INFO     "GET /static/js/jquery.js HTTP/1.1" 200 93106
+ 2018-04-29 20:03:43,923 basehttp.py    :124   INFO     "GET /static/js/bootstrap.min.js HTTP/1.1" 200 27822
+ 2018-04-29 20:03:43,926 basehttp.py    :124   INFO     "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+ 2018-04-29 20:03:43,938 basehttp.py    :124   INFO     "GET /static/js/jquery.isotope.min.js HTTP/1.1" 200 16033
+ 2018-04-29 20:03:43,943 basehttp.py    :124   INFO     "GET /static/js/main.js HTTP/1.1" 200 1861
+ 2018-04-29 20:03:43,947 basehttp.py    :124   INFO     "GET /static/js/wow.min.js HTTP/1.1" 200 4776
+ 2018-04-29 20:03:43,964 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:03:43,966 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:03:43,973 basehttp.py    :124   INFO     "GET /static/img/logo1.png HTTP/1.1" 200 4880
+ 2018-04-29 20:03:43,979 basehttp.py    :124   INFO     "GET /static/img/slider/img1.png HTTP/1.1" 200 44025
+ 2018-04-29 20:03:43,982 basehttp.py    :124   INFO     "GET /static/img/slider/img2.png HTTP/1.1" 200 40606
+ 2018-04-29 20:03:43,998 basehttp.py    :124   INFO     "GET /static/img/slider/img3.png HTTP/1.1" 200 35416
+ 2018-04-29 20:03:44,007 basehttp.py    :124   INFO     "GET /static/img/service/phone.png HTTP/1.1" 200 807
+ 2018-04-29 20:03:44,051 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:03:44,053 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:03:44,148 basehttp.py    :124   INFO     "GET /static/img/contact.png HTTP/1.1" 200 21344
+ 2018-04-29 20:03:44,149 basehttp.py    :124   INFO     "GET /static/img/namaz2.jpg HTTP/1.1" 200 180268
+ 2018-04-29 20:03:44,165 basehttp.py    :124   INFO     "GET /static/img/slider/bg2.jpg HTTP/1.1" 200 963628
+ 2018-04-29 20:03:44,168 basehttp.py    :124   INFO     "GET /static/img/slider/bg1.jpg HTTP/1.1" 200 821797
+ 2018-04-29 20:03:44,202 basehttp.py    :124   INFO     "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+ 2018-04-29 20:03:44,209 basehttp.py    :124   INFO     "GET /static/img/slider/bg3.jpg HTTP/1.1" 200 4238725
+ 2018-04-29 20:03:46,474 base.py        :152   WARNING  Not Found: /rizahmed.tk
+ 2018-04-29 20:03:46,475 basehttp.py    :124   WARNING  "GET /rizahmed.tk HTTP/1.1" 404 3187
+ 2018-04-29 20:03:46,584 base.py        :152   WARNING  Not Found: /favicon.ico
+ 2018-04-29 20:03:46,584 basehttp.py    :124   WARNING  "GET /favicon.ico HTTP/1.1" 404 3187
+ 2018-04-29 20:05:17,026 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17742
+ 2018-04-29 20:05:17,060 basehttp.py    :124   INFO     "GET /static/css/font-awesome.min.css HTTP/1.1" 200 17780
+ 2018-04-29 20:05:17,060 basehttp.py    :124   INFO     "GET /static/css/animate.min.css HTTP/1.1" 200 55844
+ 2018-04-29 20:05:17,061 basehttp.py    :124   INFO     "GET /static/css/bootstrap.min.css HTTP/1.1" 200 99558
+ 2018-04-29 20:05:17,067 basehttp.py    :124   INFO     "GET /static/css/prettyPhoto.css HTTP/1.1" 200 19888
+ 2018-04-29 20:05:17,069 basehttp.py    :124   INFO     "GET /static/css/main.css HTTP/1.1" 200 47982
+ 2018-04-29 20:05:17,074 basehttp.py    :124   INFO     "GET /static/css/responsive.css HTTP/1.1" 200 4479
+ 2018-04-29 20:05:17,081 basehttp.py    :124   INFO     "GET /static/js/jquery.js HTTP/1.1" 200 93106
+ 2018-04-29 20:05:17,083 basehttp.py    :124   INFO     "GET /static/js/bootstrap.min.js HTTP/1.1" 200 27822
+ 2018-04-29 20:05:17,092 basehttp.py    :124   INFO     "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+ 2018-04-29 20:05:17,102 basehttp.py    :124   INFO     "GET /static/js/jquery.isotope.min.js HTTP/1.1" 200 16033
+ 2018-04-29 20:05:17,103 basehttp.py    :124   INFO     "GET /static/js/main.js HTTP/1.1" 200 1861
+ 2018-04-29 20:05:17,107 basehttp.py    :124   INFO     "GET /static/js/wow.min.js HTTP/1.1" 200 4776
+ 2018-04-29 20:05:17,117 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:05:17,117 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:05:17,126 basehttp.py    :124   INFO     "GET /static/img/logo1.png HTTP/1.1" 200 4880
+ 2018-04-29 20:05:17,132 basehttp.py    :124   INFO     "GET /static/img/slider/img1.png HTTP/1.1" 200 44025
+ 2018-04-29 20:05:17,145 basehttp.py    :124   INFO     "GET /static/img/slider/img2.png HTTP/1.1" 200 40606
+ 2018-04-29 20:05:17,155 basehttp.py    :124   INFO     "GET /static/img/slider/img3.png HTTP/1.1" 200 35416
+ 2018-04-29 20:05:17,160 basehttp.py    :124   INFO     "GET /static/img/service/phone.png HTTP/1.1" 200 807
+ 2018-04-29 20:05:17,210 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:05:17,211 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:05:17,278 basehttp.py    :124   INFO     "GET /static/img/contact.png HTTP/1.1" 200 21344
+ 2018-04-29 20:05:17,280 basehttp.py    :124   INFO     "GET /static/img/namaz2.jpg HTTP/1.1" 200 180268
+ 2018-04-29 20:05:17,323 basehttp.py    :124   INFO     "GET /static/img/slider/bg1.jpg HTTP/1.1" 200 821797
+ 2018-04-29 20:05:17,323 basehttp.py    :124   INFO     "GET /static/img/slider/bg2.jpg HTTP/1.1" 200 963628
+ 2018-04-29 20:05:17,326 basehttp.py    :124   INFO     "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+ 2018-04-29 20:05:17,360 basehttp.py    :124   INFO     "GET /static/img/slider/bg3.jpg HTTP/1.1" 200 4238725
+ 2018-04-29 20:13:55,455 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17760
+ 2018-04-29 20:13:55,551 basehttp.py    :124   INFO     "GET /static/css/main.css HTTP/1.1" 200 47982
+ 2018-04-29 20:13:55,552 basehttp.py    :124   INFO     "GET /static/css/font-awesome.min.css HTTP/1.1" 200 17780
+ 2018-04-29 20:13:55,552 basehttp.py    :124   INFO     "GET /static/css/animate.min.css HTTP/1.1" 200 55844
+ 2018-04-29 20:13:55,553 basehttp.py    :124   INFO     "GET /static/css/prettyPhoto.css HTTP/1.1" 200 19888
+ 2018-04-29 20:13:55,555 basehttp.py    :124   INFO     "GET /static/css/bootstrap.min.css HTTP/1.1" 200 99558
+ 2018-04-29 20:13:55,558 basehttp.py    :124   INFO     "GET /static/css/responsive.css HTTP/1.1" 200 4479
+ 2018-04-29 20:13:55,584 basehttp.py    :124   INFO     "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+ 2018-04-29 20:13:55,587 basehttp.py    :124   INFO     "GET /static/js/jquery.js HTTP/1.1" 200 93106
+ 2018-04-29 20:13:55,591 basehttp.py    :124   INFO     "GET /static/js/bootstrap.min.js HTTP/1.1" 200 27822
+ 2018-04-29 20:13:55,592 basehttp.py    :124   INFO     "GET /static/js/jquery.isotope.min.js HTTP/1.1" 200 16033
+ 2018-04-29 20:13:55,602 basehttp.py    :124   INFO     "GET /static/js/main.js HTTP/1.1" 200 1861
+ 2018-04-29 20:13:55,604 basehttp.py    :124   INFO     "GET /static/js/wow.min.js HTTP/1.1" 200 4776
+ 2018-04-29 20:13:55,613 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:13:55,614 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:13:55,622 basehttp.py    :124   INFO     "GET /static/img/logo1.png HTTP/1.1" 200 4880
+ 2018-04-29 20:13:55,628 basehttp.py    :124   INFO     "GET /static/img/slider/img1.png HTTP/1.1" 200 44025
+ 2018-04-29 20:13:55,635 basehttp.py    :124   INFO     "GET /static/img/slider/img2.png HTTP/1.1" 200 40606
+ 2018-04-29 20:13:55,638 basehttp.py    :124   INFO     "GET /static/img/slider/img3.png HTTP/1.1" 200 35416
+ 2018-04-29 20:13:55,641 basehttp.py    :124   INFO     "GET /static/img/service/phone.png HTTP/1.1" 200 807
+ 2018-04-29 20:13:58,241 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:13:58,241 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:13:58,264 basehttp.py    :124   INFO     "GET /static/img/contact.png HTTP/1.1" 200 21344
+ 2018-04-29 20:13:58,272 basehttp.py    :124   INFO     "GET /static/img/slider/bg2.jpg HTTP/1.1" 200 963628
+ 2018-04-29 20:13:58,294 basehttp.py    :124   INFO     "GET /static/img/namaz2.jpg HTTP/1.1" 200 180268
+ 2018-04-29 20:13:58,316 basehttp.py    :124   INFO     "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+ 2018-04-29 20:13:58,320 basehttp.py    :124   INFO     "GET /static/img/slider/bg1.jpg HTTP/1.1" 200 821797
+ 2018-04-29 20:13:58,364 basehttp.py    :124   INFO     "GET /static/img/slider/bg3.jpg HTTP/1.1" 200 4238725
+ 2018-04-29 20:16:30,678 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17760
+ 2018-04-29 20:16:30,710 basehttp.py    :124   INFO     "GET /static/css/bootstrap.min.css HTTP/1.1" 200 99558
+ 2018-04-29 20:16:30,712 basehttp.py    :124   INFO     "GET /static/css/main.css HTTP/1.1" 200 47982
+ 2018-04-29 20:16:30,714 basehttp.py    :124   INFO     "GET /static/css/animate.min.css HTTP/1.1" 200 55844
+ 2018-04-29 20:16:30,716 basehttp.py    :124   INFO     "GET /static/css/font-awesome.min.css HTTP/1.1" 200 17780
+ 2018-04-29 20:16:30,718 basehttp.py    :124   INFO     "GET /static/css/prettyPhoto.css HTTP/1.1" 200 19888
+ 2018-04-29 20:16:30,725 basehttp.py    :124   INFO     "GET /static/css/responsive.css HTTP/1.1" 200 4479
+ 2018-04-29 20:16:30,733 basehttp.py    :124   INFO     "GET /static/js/bootstrap.min.js HTTP/1.1" 200 27822
+ 2018-04-29 20:16:30,744 basehttp.py    :124   INFO     "GET /static/js/jquery.js HTTP/1.1" 200 93106
+ 2018-04-29 20:16:30,746 basehttp.py    :124   INFO     "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+ 2018-04-29 20:16:30,775 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:16:30,776 basehttp.py    :124   INFO     "GET /static/js/jquery.isotope.min.js HTTP/1.1" 200 16033
+ 2018-04-29 20:16:30,778 basehttp.py    :124   INFO     "GET /static/js/wow.min.js HTTP/1.1" 200 4776
+ 2018-04-29 20:16:30,777 basehttp.py    :124   INFO     "GET /static/js/main.js HTTP/1.1" 200 1861
+ 2018-04-29 20:16:30,779 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:16:30,789 basehttp.py    :124   INFO     "GET /static/img/logo1.png HTTP/1.1" 200 4880
+ 2018-04-29 20:16:30,792 basehttp.py    :124   INFO     "GET /static/img/slider/img1.png HTTP/1.1" 200 44025
+ 2018-04-29 20:16:30,795 basehttp.py    :124   INFO     "GET /static/img/slider/img2.png HTTP/1.1" 200 40606
+ 2018-04-29 20:16:30,800 basehttp.py    :124   INFO     "GET /static/img/slider/img3.png HTTP/1.1" 200 35416
+ 2018-04-29 20:16:30,811 basehttp.py    :124   INFO     "GET /static/img/service/phone.png HTTP/1.1" 200 807
+ 2018-04-29 20:16:33,815 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:16:33,816 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:16:33,862 basehttp.py    :124   INFO     "GET /static/img/contact.png HTTP/1.1" 200 21344
+ 2018-04-29 20:16:33,871 basehttp.py    :124   INFO     "GET /static/img/namaz2.jpg HTTP/1.1" 200 180268
+ 2018-04-29 20:16:33,878 basehttp.py    :124   INFO     "GET /static/img/slider/bg1.jpg HTTP/1.1" 200 821797
+ 2018-04-29 20:16:33,888 basehttp.py    :124   INFO     "GET /static/img/slider/bg2.jpg HTTP/1.1" 200 963628
+ 2018-04-29 20:16:33,901 basehttp.py    :124   INFO     "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+ 2018-04-29 20:16:33,902 basehttp.py    :124   INFO     "GET /static/img/slider/bg3.jpg HTTP/1.1" 200 4238725
+ 2018-04-29 20:17:08,141 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17760
+ 2018-04-29 20:17:08,193 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:17:08,194 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:17:08,274 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:17:08,274 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:17:09,323 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
+ 2018-04-29 20:17:16,182 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17760
+ 2018-04-29 20:17:16,211 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:17:16,212 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:17:16,270 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:17:16,271 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:17:17,407 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
+ 2018-04-29 20:17:29,098 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17760
+ 2018-04-29 20:17:29,131 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:17:29,132 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:17:29,182 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:17:29,182 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:17:29,683 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
+ 2018-04-29 20:17:42,045 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17760
+ 2018-04-29 20:17:42,079 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:17:42,080 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:17:42,132 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:17:42,133 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:17:42,610 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
+ 2018-04-29 20:19:12,854 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17760
+ 2018-04-29 20:19:12,903 basehttp.py    :124   INFO     "GET /static/css/main.css HTTP/1.1" 200 47982
+ 2018-04-29 20:19:12,904 basehttp.py    :124   INFO     "GET /static/css/prettyPhoto.css HTTP/1.1" 200 19888
+ 2018-04-29 20:19:12,904 basehttp.py    :124   INFO     "GET /static/css/font-awesome.min.css HTTP/1.1" 200 17780
+ 2018-04-29 20:19:12,905 basehttp.py    :124   INFO     "GET /static/css/bootstrap.min.css HTTP/1.1" 200 99558
+ 2018-04-29 20:19:12,909 basehttp.py    :124   INFO     "GET /static/css/animate.min.css HTTP/1.1" 200 55844
+ 2018-04-29 20:19:12,910 basehttp.py    :124   INFO     "GET /static/css/responsive.css HTTP/1.1" 200 4479
+ 2018-04-29 20:19:12,926 basehttp.py    :124   INFO     "GET /static/js/jquery.js HTTP/1.1" 200 93106
+ 2018-04-29 20:19:12,937 basehttp.py    :124   INFO     "GET /static/js/bootstrap.min.js HTTP/1.1" 200 27822
+ 2018-04-29 20:19:12,950 basehttp.py    :124   INFO     "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+ 2018-04-29 20:19:12,955 basehttp.py    :124   INFO     "GET /static/js/jquery.isotope.min.js HTTP/1.1" 200 16033
+ 2018-04-29 20:19:12,964 basehttp.py    :124   INFO     "GET /static/js/main.js HTTP/1.1" 200 1861
+ 2018-04-29 20:19:12,972 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:19:12,973 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:19:12,974 basehttp.py    :124   INFO     "GET /static/js/wow.min.js HTTP/1.1" 200 4776
+ 2018-04-29 20:19:12,982 basehttp.py    :124   INFO     "GET /static/img/logo1.png HTTP/1.1" 200 4880
+ 2018-04-29 20:19:12,987 basehttp.py    :124   INFO     "GET /static/img/slider/img1.png HTTP/1.1" 200 44025
+ 2018-04-29 20:19:12,993 basehttp.py    :124   INFO     "GET /static/img/slider/img2.png HTTP/1.1" 200 40606
+ 2018-04-29 20:19:12,997 basehttp.py    :124   INFO     "GET /static/img/slider/img3.png HTTP/1.1" 200 35416
+ 2018-04-29 20:19:13,000 basehttp.py    :124   INFO     "GET /static/img/service/phone.png HTTP/1.1" 200 807
+ 2018-04-29 20:19:16,380 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:19:16,381 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:19:16,416 basehttp.py    :124   INFO     "GET /static/img/contact.png HTTP/1.1" 200 21344
+ 2018-04-29 20:19:16,438 basehttp.py    :124   INFO     "GET /static/img/slider/bg3.jpg HTTP/1.1" 200 4238725
+ 2018-04-29 20:19:16,447 basehttp.py    :124   INFO     "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+ 2018-04-29 20:19:16,444 basehttp.py    :124   INFO     "GET /static/img/namaz2.jpg HTTP/1.1" 200 180268
+ 2018-04-29 20:19:16,450 basehttp.py    :124   INFO     "GET /static/img/slider/bg2.jpg HTTP/1.1" 200 963628
+ 2018-04-29 20:19:16,443 basehttp.py    :124   INFO     "GET /static/img/slider/bg1.jpg HTTP/1.1" 200 821797
+ 2018-04-29 20:20:32,742 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17760
+ 2018-04-29 20:20:32,812 basehttp.py    :124   INFO     "GET /static/css/bootstrap.min.css HTTP/1.1" 200 99558
+ 2018-04-29 20:20:32,816 basehttp.py    :124   INFO     "GET /static/css/font-awesome.min.css HTTP/1.1" 200 17780
+ 2018-04-29 20:20:32,819 basehttp.py    :124   INFO     "GET /static/css/main.css HTTP/1.1" 200 47982
+ 2018-04-29 20:20:32,823 basehttp.py    :124   INFO     "GET /static/css/prettyPhoto.css HTTP/1.1" 200 19888
+ 2018-04-29 20:20:32,824 basehttp.py    :124   INFO     "GET /static/css/animate.min.css HTTP/1.1" 200 55844
+ 2018-04-29 20:20:32,838 basehttp.py    :124   INFO     "GET /static/css/responsive.css HTTP/1.1" 200 4479
+ 2018-04-29 20:20:32,845 basehttp.py    :124   INFO     "GET /static/js/jquery.js HTTP/1.1" 200 93106
+ 2018-04-29 20:20:32,859 basehttp.py    :124   INFO     "GET /static/js/bootstrap.min.js HTTP/1.1" 200 27822
+ 2018-04-29 20:20:32,863 basehttp.py    :124   INFO     "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+ 2018-04-29 20:20:32,867 basehttp.py    :124   INFO     "GET /static/js/jquery.isotope.min.js HTTP/1.1" 200 16033
+ 2018-04-29 20:20:32,879 basehttp.py    :124   INFO     "GET /static/js/main.js HTTP/1.1" 200 1861
+ 2018-04-29 20:20:32,893 basehttp.py    :124   INFO     "GET /static/js/wow.min.js HTTP/1.1" 200 4776
+ 2018-04-29 20:20:32,898 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:20:32,908 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:20:32,914 basehttp.py    :124   INFO     "GET /static/img/logo1.png HTTP/1.1" 200 4880
+ 2018-04-29 20:20:32,934 basehttp.py    :124   INFO     "GET /static/img/slider/img1.png HTTP/1.1" 200 44025
+ 2018-04-29 20:20:32,943 basehttp.py    :124   INFO     "GET /static/img/slider/img2.png HTTP/1.1" 200 40606
+ 2018-04-29 20:20:32,950 basehttp.py    :124   INFO     "GET /static/img/slider/img3.png HTTP/1.1" 200 35416
+ 2018-04-29 20:20:32,955 basehttp.py    :124   INFO     "GET /static/img/service/phone.png HTTP/1.1" 200 807
+ 2018-04-29 20:20:33,268 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:20:33,269 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:20:33,311 basehttp.py    :124   INFO     "GET /static/img/contact.png HTTP/1.1" 200 21344
+ 2018-04-29 20:20:33,315 basehttp.py    :124   INFO     "GET /static/img/namaz2.jpg HTTP/1.1" 200 180268
+ 2018-04-29 20:20:33,322 basehttp.py    :124   INFO     "GET /static/img/slider/bg2.jpg HTTP/1.1" 200 963628
+ 2018-04-29 20:20:33,344 basehttp.py    :124   INFO     "GET /static/img/slider/bg1.jpg HTTP/1.1" 200 821797
+ 2018-04-29 20:20:33,348 basehttp.py    :124   INFO     "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+ 2018-04-29 20:20:33,354 basehttp.py    :124   INFO     "GET /static/img/slider/bg3.jpg HTTP/1.1" 200 4238725
+ 2018-04-29 20:21:05,411 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17760
+ 2018-04-29 20:21:05,442 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:21:05,443 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:21:05,518 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:21:05,518 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:21:07,119 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
+ 2018-04-29 20:22:55,084 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17857
+ 2018-04-29 20:22:55,121 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:22:55,122 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:22:55,182 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:22:55,182 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:22:56,859 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
+ 2018-04-29 20:24:26,567 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17826
+ 2018-04-29 20:24:26,607 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:24:26,607 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:24:26,734 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:24:26,734 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:24:27,414 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
+ 2018-04-29 20:25:48,486 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17797
+ 2018-04-29 20:25:48,509 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:25:48,511 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:25:48,573 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:25:48,574 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:25:51,284 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
+ 2018-04-29 20:26:30,674 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17798
+ 2018-04-29 20:26:30,710 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:26:30,710 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:26:30,769 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:26:30,770 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:26:32,596 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
+ 2018-04-29 20:28:46,857 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17798
+ 2018-04-29 20:28:46,931 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:28:46,933 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:28:46,997 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:28:46,998 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:28:49,109 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
+ 2018-04-29 20:28:54,150 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17798
+ 2018-04-29 20:28:54,175 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:28:54,175 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:28:54,224 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:28:54,225 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:28:54,866 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
+ 2018-04-29 20:29:00,035 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17798
+ 2018-04-29 20:29:00,061 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:29:00,062 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:29:00,106 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:29:00,107 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:29:00,650 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
+ 2018-04-29 20:29:04,109 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17798
+ 2018-04-29 20:29:04,147 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:29:04,148 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:29:04,189 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:29:04,190 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:29:04,626 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
+ 2018-04-29 20:29:11,936 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17798
+ 2018-04-29 20:29:11,980 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:29:11,983 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:29:12,015 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:29:12,015 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:29:12,640 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
+ 2018-04-29 20:29:19,561 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17798
+ 2018-04-29 20:29:19,584 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:29:19,585 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:29:19,629 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:29:19,630 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:29:20,742 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
+ 2018-04-29 20:29:32,373 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17798
+ 2018-04-29 20:29:32,408 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:29:32,409 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:29:32,454 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:29:32,454 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:29:33,400 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
+ 2018-04-29 20:31:44,768 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17816
+ 2018-04-29 20:31:44,850 basehttp.py    :124   INFO     "GET /static/css/bootstrap.min.css HTTP/1.1" 200 99558
+ 2018-04-29 20:31:44,864 basehttp.py    :124   INFO     "GET /static/css/responsive.css HTTP/1.1" 200 4479
+ 2018-04-29 20:31:44,864 basehttp.py    :124   INFO     "GET /static/css/animate.min.css HTTP/1.1" 200 55844
+ 2018-04-29 20:31:44,879 basehttp.py    :124   INFO     "GET /static/css/main.css HTTP/1.1" 200 47982
+ 2018-04-29 20:31:44,879 basehttp.py    :124   INFO     "GET /static/css/prettyPhoto.css HTTP/1.1" 200 19888
+ 2018-04-29 20:31:44,879 basehttp.py    :124   INFO     "GET /static/css/font-awesome.min.css HTTP/1.1" 200 17780
+ 2018-04-29 20:31:44,891 basehttp.py    :124   INFO     "GET /static/js/bootstrap.min.js HTTP/1.1" 200 27822
+ 2018-04-29 20:31:44,891 basehttp.py    :124   INFO     "GET /static/js/jquery.js HTTP/1.1" 200 93106
+ 2018-04-29 20:31:44,897 basehttp.py    :124   INFO     "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+ 2018-04-29 20:31:44,908 basehttp.py    :124   INFO     "GET /static/js/jquery.isotope.min.js HTTP/1.1" 200 16033
+ 2018-04-29 20:31:44,914 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:31:44,915 basehttp.py    :124   INFO     "GET /static/js/wow.min.js HTTP/1.1" 200 4776
+ 2018-04-29 20:31:44,917 basehttp.py    :124   INFO     "GET /static/js/main.js HTTP/1.1" 200 1861
+ 2018-04-29 20:31:44,918 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:31:44,929 basehttp.py    :124   INFO     "GET /static/img/logo1.png HTTP/1.1" 200 4880
+ 2018-04-29 20:31:44,950 basehttp.py    :124   INFO     "GET /static/img/slider/img1.png HTTP/1.1" 200 44025
+ 2018-04-29 20:31:44,967 basehttp.py    :124   INFO     "GET /static/img/slider/img2.png HTTP/1.1" 200 40606
+ 2018-04-29 20:31:44,981 basehttp.py    :124   INFO     "GET /static/img/slider/img3.png HTTP/1.1" 200 35416
+ 2018-04-29 20:31:44,995 basehttp.py    :124   INFO     "GET /static/img/service/phone.png HTTP/1.1" 200 807
+ 2018-04-29 20:31:45,422 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:31:45,423 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:31:45,451 basehttp.py    :124   INFO     "GET /static/img/contact.png HTTP/1.1" 200 21344
+ 2018-04-29 20:31:45,516 basehttp.py    :124   INFO     "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+ 2018-04-29 20:31:45,537 basehttp.py    :124   INFO     "GET /static/img/slider/bg2.jpg HTTP/1.1" 200 963628
+ 2018-04-29 20:31:45,609 basehttp.py    :124   INFO     "GET /static/img/slider/bg1.jpg HTTP/1.1" 200 821797
+ 2018-04-29 20:31:45,624 basehttp.py    :124   INFO     "GET /static/img/namaz2.jpg HTTP/1.1" 200 180268
+ 2018-04-29 20:31:45,635 basehttp.py    :124   INFO     "GET /static/img/slider/bg3.jpg HTTP/1.1" 200 4238725
+ 2018-04-29 20:32:18,043 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17817
+ 2018-04-29 20:32:18,090 basehttp.py    :124   INFO     "GET /static/css/prettyPhoto.css HTTP/1.1" 200 19888
+ 2018-04-29 20:32:18,091 basehttp.py    :124   INFO     "GET /static/css/main.css HTTP/1.1" 200 47982
+ 2018-04-29 20:32:18,092 basehttp.py    :124   INFO     "GET /static/css/font-awesome.min.css HTTP/1.1" 200 17780
+ 2018-04-29 20:32:18,093 basehttp.py    :124   INFO     "GET /static/css/bootstrap.min.css HTTP/1.1" 200 99558
+ 2018-04-29 20:32:18,094 basehttp.py    :124   INFO     "GET /static/css/animate.min.css HTTP/1.1" 200 55844
+ 2018-04-29 20:32:18,096 basehttp.py    :124   INFO     "GET /static/css/responsive.css HTTP/1.1" 200 4479
+ 2018-04-29 20:32:18,104 basehttp.py    :124   INFO     "GET /static/js/jquery.js HTTP/1.1" 200 93106
+ 2018-04-29 20:32:18,120 basehttp.py    :124   INFO     "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+ 2018-04-29 20:32:18,122 basehttp.py    :124   INFO     "GET /static/js/bootstrap.min.js HTTP/1.1" 200 27822
+ 2018-04-29 20:32:18,130 basehttp.py    :124   INFO     "GET /static/js/main.js HTTP/1.1" 200 1861
+ 2018-04-29 20:32:18,140 basehttp.py    :124   INFO     "GET /static/js/jquery.isotope.min.js HTTP/1.1" 200 16033
+ 2018-04-29 20:32:18,141 basehttp.py    :124   INFO     "GET /static/js/wow.min.js HTTP/1.1" 200 4776
+ 2018-04-29 20:32:18,154 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:32:18,155 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:32:18,162 basehttp.py    :124   INFO     "GET /static/img/logo1.png HTTP/1.1" 200 4880
+ 2018-04-29 20:32:18,174 basehttp.py    :124   INFO     "GET /static/img/slider/img1.png HTTP/1.1" 200 44025
+ 2018-04-29 20:32:18,179 basehttp.py    :124   INFO     "GET /static/img/slider/img2.png HTTP/1.1" 200 40606
+ 2018-04-29 20:32:18,186 basehttp.py    :124   INFO     "GET /static/img/slider/img3.png HTTP/1.1" 200 35416
+ 2018-04-29 20:32:18,189 basehttp.py    :124   INFO     "GET /static/img/service/phone.png HTTP/1.1" 200 807
+ 2018-04-29 20:32:18,219 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:32:18,219 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:32:18,263 basehttp.py    :124   INFO     "GET /static/img/contact.png HTTP/1.1" 200 21344
+ 2018-04-29 20:32:18,285 basehttp.py    :124   INFO     "GET /static/img/namaz2.jpg HTTP/1.1" 200 180268
+ 2018-04-29 20:32:18,289 basehttp.py    :124   INFO     "GET /static/img/slider/bg1.jpg HTTP/1.1" 200 821797
+ 2018-04-29 20:32:18,290 basehttp.py    :124   INFO     "GET /static/img/slider/bg2.jpg HTTP/1.1" 200 963628
+ 2018-04-29 20:32:18,296 basehttp.py    :124   INFO     "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+ 2018-04-29 20:32:18,308 basehttp.py    :124   INFO     "GET /static/img/slider/bg3.jpg HTTP/1.1" 200 4238725
+ 2018-04-29 20:32:31,135 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17810
+ 2018-04-29 20:32:31,174 basehttp.py    :124   INFO     "GET /static/css/main.css HTTP/1.1" 200 47982
+ 2018-04-29 20:32:31,175 basehttp.py    :124   INFO     "GET /static/css/prettyPhoto.css HTTP/1.1" 200 19888
+ 2018-04-29 20:32:31,178 basehttp.py    :124   INFO     "GET /static/css/font-awesome.min.css HTTP/1.1" 200 17780
+ 2018-04-29 20:32:31,179 basehttp.py    :124   INFO     "GET /static/css/animate.min.css HTTP/1.1" 200 55844
+ 2018-04-29 20:32:31,180 basehttp.py    :124   INFO     "GET /static/css/bootstrap.min.css HTTP/1.1" 200 99558
+ 2018-04-29 20:32:31,181 basehttp.py    :124   INFO     "GET /static/css/responsive.css HTTP/1.1" 200 4479
+ 2018-04-29 20:32:31,196 basehttp.py    :124   INFO     "GET /static/js/jquery.js HTTP/1.1" 200 93106
+ 2018-04-29 20:32:31,209 basehttp.py    :124   INFO     "GET /static/js/bootstrap.min.js HTTP/1.1" 200 27822
+ 2018-04-29 20:32:31,219 basehttp.py    :124   INFO     "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+ 2018-04-29 20:32:31,225 basehttp.py    :124   INFO     "GET /static/js/main.js HTTP/1.1" 200 1861
+ 2018-04-29 20:32:31,226 basehttp.py    :124   INFO     "GET /static/js/jquery.isotope.min.js HTTP/1.1" 200 16033
+ 2018-04-29 20:32:31,241 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:32:31,241 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:32:31,243 basehttp.py    :124   INFO     "GET /static/js/wow.min.js HTTP/1.1" 200 4776
+ 2018-04-29 20:32:31,249 basehttp.py    :124   INFO     "GET /static/img/logo1.png HTTP/1.1" 200 4880
+ 2018-04-29 20:32:31,255 basehttp.py    :124   INFO     "GET /static/img/slider/img1.png HTTP/1.1" 200 44025
+ 2018-04-29 20:32:31,258 basehttp.py    :124   INFO     "GET /static/img/slider/img2.png HTTP/1.1" 200 40606
+ 2018-04-29 20:32:31,261 basehttp.py    :124   INFO     "GET /static/img/slider/img3.png HTTP/1.1" 200 35416
+ 2018-04-29 20:32:31,264 basehttp.py    :124   INFO     "GET /static/img/service/phone.png HTTP/1.1" 200 807
+ 2018-04-29 20:32:31,320 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:32:31,321 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:32:31,386 basehttp.py    :124   INFO     "GET /static/img/contact.png HTTP/1.1" 200 21344
+ 2018-04-29 20:32:31,396 basehttp.py    :124   INFO     "GET /static/img/namaz2.jpg HTTP/1.1" 200 180268
+ 2018-04-29 20:32:31,404 basehttp.py    :124   INFO     "GET /static/img/slider/bg2.jpg HTTP/1.1" 200 963628
+ 2018-04-29 20:32:31,410 basehttp.py    :124   INFO     "GET /static/img/slider/bg1.jpg HTTP/1.1" 200 821797
+ 2018-04-29 20:32:31,429 basehttp.py    :124   INFO     "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+ 2018-04-29 20:32:31,438 basehttp.py    :124   INFO     "GET /static/img/slider/bg3.jpg HTTP/1.1" 200 4238725
+ 2018-04-29 20:32:51,245 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17798
+ 2018-04-29 20:32:51,292 basehttp.py    :124   INFO     "GET /static/css/bootstrap.min.css HTTP/1.1" 200 99558
+ 2018-04-29 20:32:51,294 basehttp.py    :124   INFO     "GET /static/css/main.css HTTP/1.1" 200 47982
+ 2018-04-29 20:32:51,295 basehttp.py    :124   INFO     "GET /static/css/prettyPhoto.css HTTP/1.1" 200 19888
+ 2018-04-29 20:32:51,297 basehttp.py    :124   INFO     "GET /static/css/font-awesome.min.css HTTP/1.1" 200 17780
+ 2018-04-29 20:32:51,302 basehttp.py    :124   INFO     "GET /static/css/animate.min.css HTTP/1.1" 200 55844
+ 2018-04-29 20:32:51,306 basehttp.py    :124   INFO     "GET /static/css/responsive.css HTTP/1.1" 200 4479
+ 2018-04-29 20:32:51,311 basehttp.py    :124   INFO     "GET /static/js/jquery.js HTTP/1.1" 200 93106
+ 2018-04-29 20:32:51,313 basehttp.py    :124   INFO     "GET /static/js/bootstrap.min.js HTTP/1.1" 200 27822
+ 2018-04-29 20:32:51,330 basehttp.py    :124   INFO     "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+ 2018-04-29 20:32:51,337 basehttp.py    :124   INFO     "GET /static/js/wow.min.js HTTP/1.1" 200 4776
+ 2018-04-29 20:32:51,348 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:32:51,356 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:32:51,357 basehttp.py    :124   INFO     "GET /static/js/main.js HTTP/1.1" 200 1861
+ 2018-04-29 20:32:51,352 basehttp.py    :124   INFO     "GET /static/js/jquery.isotope.min.js HTTP/1.1" 200 16033
+ 2018-04-29 20:32:51,364 basehttp.py    :124   INFO     "GET /static/img/logo1.png HTTP/1.1" 200 4880
+ 2018-04-29 20:32:51,368 basehttp.py    :124   INFO     "GET /static/img/slider/img1.png HTTP/1.1" 200 44025
+ 2018-04-29 20:32:51,386 basehttp.py    :124   INFO     "GET /static/img/slider/img2.png HTTP/1.1" 200 40606
+ 2018-04-29 20:32:51,389 basehttp.py    :124   INFO     "GET /static/img/slider/img3.png HTTP/1.1" 200 35416
+ 2018-04-29 20:32:51,391 basehttp.py    :124   INFO     "GET /static/img/service/phone.png HTTP/1.1" 200 807
+ 2018-04-29 20:32:51,431 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:32:51,432 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:32:51,463 basehttp.py    :124   INFO     "GET /static/img/contact.png HTTP/1.1" 200 21344
+ 2018-04-29 20:32:51,470 basehttp.py    :124   INFO     "GET /static/img/namaz2.jpg HTTP/1.1" 200 180268
+ 2018-04-29 20:32:51,474 basehttp.py    :124   INFO     "GET /static/img/slider/bg2.jpg HTTP/1.1" 200 963628
+ 2018-04-29 20:32:51,490 basehttp.py    :124   INFO     "GET /static/img/slider/bg3.jpg HTTP/1.1" 200 4238725
+ 2018-04-29 20:32:51,497 basehttp.py    :124   INFO     "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+ 2018-04-29 20:32:51,499 basehttp.py    :124   INFO     "GET /static/img/slider/bg1.jpg HTTP/1.1" 200 821797
+ 2018-04-29 20:33:06,746 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17798
+ 2018-04-29 20:33:06,774 basehttp.py    :124   INFO     "GET /static/css/font-awesome.min.css HTTP/1.1" 200 17780
+ 2018-04-29 20:33:06,779 basehttp.py    :124   INFO     "GET /static/css/animate.min.css HTTP/1.1" 200 55844
+ 2018-04-29 20:33:06,781 basehttp.py    :124   INFO     "GET /static/css/bootstrap.min.css HTTP/1.1" 200 99558
+ 2018-04-29 20:33:06,782 basehttp.py    :124   INFO     "GET /static/css/main.css HTTP/1.1" 200 47982
+ 2018-04-29 20:33:06,783 basehttp.py    :124   INFO     "GET /static/css/prettyPhoto.css HTTP/1.1" 200 19888
+ 2018-04-29 20:33:06,794 basehttp.py    :124   INFO     "GET /static/css/responsive.css HTTP/1.1" 200 4479
+ 2018-04-29 20:33:06,797 basehttp.py    :124   INFO     "GET /static/js/jquery.js HTTP/1.1" 200 93106
+ 2018-04-29 20:33:06,801 basehttp.py    :124   INFO     "GET /static/js/bootstrap.min.js HTTP/1.1" 200 27822
+ 2018-04-29 20:33:06,819 basehttp.py    :124   INFO     "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+ 2018-04-29 20:33:06,822 basehttp.py    :124   INFO     "GET /static/js/jquery.isotope.min.js HTTP/1.1" 200 16033
+ 2018-04-29 20:33:06,829 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:33:06,830 basehttp.py    :124   INFO     "GET /static/js/main.js HTTP/1.1" 200 1861
+ 2018-04-29 20:33:06,833 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:33:06,834 basehttp.py    :124   INFO     "GET /static/js/wow.min.js HTTP/1.1" 200 4776
+ 2018-04-29 20:33:06,850 basehttp.py    :124   INFO     "GET /static/img/logo1.png HTTP/1.1" 200 4880
+ 2018-04-29 20:33:06,859 basehttp.py    :124   INFO     "GET /static/img/slider/img1.png HTTP/1.1" 200 44025
+ 2018-04-29 20:33:06,864 basehttp.py    :124   INFO     "GET /static/img/slider/img2.png HTTP/1.1" 200 40606
+ 2018-04-29 20:33:06,870 basehttp.py    :124   INFO     "GET /static/img/slider/img3.png HTTP/1.1" 200 35416
+ 2018-04-29 20:33:06,874 basehttp.py    :124   INFO     "GET /static/img/service/phone.png HTTP/1.1" 200 807
+ 2018-04-29 20:33:07,265 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:33:07,265 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:33:07,296 basehttp.py    :124   INFO     "GET /static/img/contact.png HTTP/1.1" 200 21344
+ 2018-04-29 20:33:07,312 basehttp.py    :124   INFO     "GET /static/img/namaz2.jpg HTTP/1.1" 200 180268
+ 2018-04-29 20:33:07,316 basehttp.py    :124   INFO     "GET /static/img/slider/bg2.jpg HTTP/1.1" 200 963628
+ 2018-04-29 20:33:07,330 basehttp.py    :124   INFO     "GET /static/img/slider/bg1.jpg HTTP/1.1" 200 821797
+ 2018-04-29 20:33:07,334 basehttp.py    :124   INFO     "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+ 2018-04-29 20:33:07,338 basehttp.py    :124   INFO     "GET /static/img/slider/bg3.jpg HTTP/1.1" 200 4238725
+ 2018-04-29 20:33:52,071 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17682
+ 2018-04-29 20:33:52,135 basehttp.py    :124   INFO     "GET /static/css/font-awesome.min.css HTTP/1.1" 200 17780
+ 2018-04-29 20:33:52,137 basehttp.py    :124   INFO     "GET /static/css/animate.min.css HTTP/1.1" 200 55844
+ 2018-04-29 20:33:52,138 basehttp.py    :124   INFO     "GET /static/css/prettyPhoto.css HTTP/1.1" 200 19888
+ 2018-04-29 20:33:52,147 basehttp.py    :124   INFO     "GET /static/css/main.css HTTP/1.1" 200 47982
+ 2018-04-29 20:33:52,151 basehttp.py    :124   INFO     "GET /static/css/bootstrap.min.css HTTP/1.1" 200 99558
+ 2018-04-29 20:33:52,164 basehttp.py    :124   INFO     "GET /static/css/responsive.css HTTP/1.1" 200 4479
+ 2018-04-29 20:33:52,165 basehttp.py    :124   INFO     "GET /static/js/jquery.js HTTP/1.1" 200 93106
+ 2018-04-29 20:33:52,182 basehttp.py    :124   INFO     "GET /static/js/bootstrap.min.js HTTP/1.1" 200 27822
+ 2018-04-29 20:33:52,194 basehttp.py    :124   INFO     "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+ 2018-04-29 20:33:52,199 basehttp.py    :124   INFO     "GET /static/js/main.js HTTP/1.1" 200 1861
+ 2018-04-29 20:33:52,199 basehttp.py    :124   INFO     "GET /static/js/jquery.isotope.min.js HTTP/1.1" 200 16033
+ 2018-04-29 20:33:52,207 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:33:52,209 basehttp.py    :124   INFO     "GET /static/js/wow.min.js HTTP/1.1" 200 4776
+ 2018-04-29 20:33:52,211 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:33:52,215 basehttp.py    :124   INFO     "GET /static/img/logo1.png HTTP/1.1" 200 4880
+ 2018-04-29 20:33:52,218 basehttp.py    :124   INFO     "GET /static/img/slider/img1.png HTTP/1.1" 200 44025
+ 2018-04-29 20:33:52,224 basehttp.py    :124   INFO     "GET /static/img/slider/img2.png HTTP/1.1" 200 40606
+ 2018-04-29 20:33:52,230 basehttp.py    :124   INFO     "GET /static/img/slider/img3.png HTTP/1.1" 200 35416
+ 2018-04-29 20:33:52,233 basehttp.py    :124   INFO     "GET /static/img/service/phone.png HTTP/1.1" 200 807
+ 2018-04-29 20:33:52,289 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:33:52,289 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:33:52,366 basehttp.py    :124   INFO     "GET /static/img/contact.png HTTP/1.1" 200 21344
+ 2018-04-29 20:33:52,372 basehttp.py    :124   INFO     "GET /static/img/namaz2.jpg HTTP/1.1" 200 180268
+ 2018-04-29 20:33:52,397 basehttp.py    :124   INFO     "GET /static/img/slider/bg2.jpg HTTP/1.1" 200 963628
+ 2018-04-29 20:33:52,402 basehttp.py    :124   INFO     "GET /static/img/slider/bg1.jpg HTTP/1.1" 200 821797
+ 2018-04-29 20:33:52,404 basehttp.py    :124   INFO     "GET /static/img/slider/bg3.jpg HTTP/1.1" 200 4238725
+ 2018-04-29 20:33:52,407 basehttp.py    :124   INFO     "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+ 2018-04-29 20:34:02,213 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17682
+ 2018-04-29 20:34:02,252 basehttp.py    :124   INFO     "GET /static/css/bootstrap.min.css HTTP/1.1" 200 99558
+ 2018-04-29 20:34:02,255 basehttp.py    :124   INFO     "GET /static/css/animate.min.css HTTP/1.1" 200 55844
+ 2018-04-29 20:34:02,256 basehttp.py    :124   INFO     "GET /static/css/font-awesome.min.css HTTP/1.1" 200 17780
+ 2018-04-29 20:34:02,259 basehttp.py    :124   INFO     "GET /static/css/prettyPhoto.css HTTP/1.1" 200 19888
+ 2018-04-29 20:34:02,284 basehttp.py    :124   INFO     "GET /static/css/main.css HTTP/1.1" 200 47982
+ 2018-04-29 20:34:02,286 basehttp.py    :124   INFO     "GET /static/css/responsive.css HTTP/1.1" 200 4479
+ 2018-04-29 20:34:02,298 basehttp.py    :124   INFO     "GET /static/js/jquery.js HTTP/1.1" 200 93106
+ 2018-04-29 20:34:02,303 basehttp.py    :124   INFO     "GET /static/js/bootstrap.min.js HTTP/1.1" 200 27822
+ 2018-04-29 20:34:02,308 basehttp.py    :124   INFO     "GET /static/js/jquery.prettyPhoto.js HTTP/1.1" 200 22060
+ 2018-04-29 20:34:02,317 basehttp.py    :124   INFO     "GET /static/js/jquery.isotope.min.js HTTP/1.1" 200 16033
+ 2018-04-29 20:34:02,321 basehttp.py    :124   INFO     "GET /static/js/main.js HTTP/1.1" 200 1861
+ 2018-04-29 20:34:02,324 basehttp.py    :124   INFO     "GET /static/js/wow.min.js HTTP/1.1" 200 4776
+ 2018-04-29 20:34:02,332 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:34:02,334 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:34:02,347 basehttp.py    :124   INFO     "GET /static/img/logo1.png HTTP/1.1" 200 4880
+ 2018-04-29 20:34:02,353 basehttp.py    :124   INFO     "GET /static/img/slider/img1.png HTTP/1.1" 200 44025
+ 2018-04-29 20:34:02,356 basehttp.py    :124   INFO     "GET /static/img/slider/img2.png HTTP/1.1" 200 40606
+ 2018-04-29 20:34:02,360 basehttp.py    :124   INFO     "GET /static/img/slider/img3.png HTTP/1.1" 200 35416
+ 2018-04-29 20:34:02,362 basehttp.py    :124   INFO     "GET /static/img/service/phone.png HTTP/1.1" 200 807
+ 2018-04-29 20:34:02,533 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:34:02,533 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:34:02,590 basehttp.py    :124   INFO     "GET /static/img/namaz2.jpg HTTP/1.1" 200 180268
+ 2018-04-29 20:34:02,599 basehttp.py    :124   INFO     "GET /static/img/slider/bg2.jpg HTTP/1.1" 200 963628
+ 2018-04-29 20:34:02,617 basehttp.py    :124   INFO     "GET /static/img/slider/bg1.jpg HTTP/1.1" 200 821797
+ 2018-04-29 20:34:02,617 basehttp.py    :124   INFO     "GET /static/img/contact.png HTTP/1.1" 200 21344
+ 2018-04-29 20:34:02,621 basehttp.py    :124   INFO     "GET /static/img/slider/bg3.jpg HTTP/1.1" 200 4238725
+ 2018-04-29 20:34:02,622 basehttp.py    :124   INFO     "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+ 2018-04-29 20:35:22,509 basehttp.py    :124   INFO     "GET / HTTP/1.1" 200 17682
+ 2018-04-29 20:35:22,539 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:35:22,540 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:35:22,599 base.py        :152   WARNING  Not Found: /PrayTimes.js
+ 2018-04-29 20:35:22,599 basehttp.py    :124   WARNING  "GET /PrayTimes.js HTTP/1.1" 404 3190
+ 2018-04-29 20:35:24,176 basehttp.py    :124   INFO     "GET /static/img/ico/favicon.ico HTTP/1.1" 200 1150
