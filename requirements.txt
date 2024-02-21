@@ -1,4 +1,4 @@
-django==1.11
+django==4.2
 django-extensions
 django-environ
 django-braces
