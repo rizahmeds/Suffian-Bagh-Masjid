@@ -4,6 +4,7 @@ django-environ
 django-braces
 psycopg2-binary
 pdbpp
+python-environ
 ipython
 ptpython
 yapf

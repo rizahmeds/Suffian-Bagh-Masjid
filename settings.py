@@ -1,10 +1,11 @@
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
-import os
+from pathlib import Path
+
 import environ
 import logging
 from django.contrib.messages import constants as messages
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = Path(__file__).resolve().parent.parent
 env = environ.Env(DEBUG=(bool, False),)
 environ.Env.read_env()
 
@@ -97,3 +98,7 @@ TIME_ZONE = 'Asia/Kolkata'
 
 STATIC_URL = '/static/'
 
+# Default primary key field type
+# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
+
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
