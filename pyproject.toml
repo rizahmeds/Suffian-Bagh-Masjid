@@ -1,0 +1,16 @@
+[project]
+name = "suffian-bagh-masjid"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "django==4.2.20",
+    "django-braces>=1.17.0",
+    "django-environ>=0.12.0",
+    "django-extensions>=4.1",
+    "gunicorn>=23.0.0",
+    "ipython>=9.2.0",
+    "pdbpp>=0.11.6",
+    "psycopg2-binary>=2.9.10",
+    "ptpython>=3.0.30",
+    "yapf>=0.43.0",
+]
