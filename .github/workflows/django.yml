@@ -28,7 +28,7 @@ jobs:
         enable-cache: true
     - name: Install Dependencies
       run: |
-        uv install .
+        uv pip install
     - name: Run Tests
       run: |
         python manage.py test
