@@ -2,8 +2,6 @@
 name = "suffian-bagh-masjid"
 version = "0.1.0"
 requires-python = ">=3.13"
-[tool.setuptools]
-packages = ["app"]
 dependencies = [
     "django==5.2.4",
     "django-braces>=1.17.0",
@@ -16,3 +14,6 @@ dependencies = [
     "ptpython>=3.0.30",
     "yapf>=0.43.0",
 ]
+
+[tool.setuptools]
+packages = ["app"]
