@@ -31,7 +31,6 @@ jobs:
     - name: Create uv virtual environment
       run: | 
         uv venv
-        echo "source .venv/bin/activate" >> $GITHUB_ENV
   
     - name: Install Dependencies
       run: |
