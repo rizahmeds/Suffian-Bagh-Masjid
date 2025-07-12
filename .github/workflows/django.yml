@@ -26,6 +26,8 @@ jobs:
       uses: astral-sh/setup-uv@c7f87aa956e4c323abf06d5dec078e358f6b4d04 # v6
       with:
         enable-cache: true
+    - name: Create uv virtual environment
+      run: uv venv
     - name: Install Dependencies
       run: |
         uv pip install .
