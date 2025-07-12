@@ -12,25 +12,32 @@ jobs:
 
     runs-on: ubuntu-latest
     strategy:
-      max-parallel: 4
       matrix:
         python-version: [3.13]
 
     steps:
     - uses: actions/checkout@v3
+
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v3
       with:
         python-version: ${{ matrix.python-version }}
+
     - name: Install uv (CLI with `uv install`)
       run: |
         curl -Ls https://astral.sh/uv/install.sh | sh
         echo "$HOME/.cargo/bin" >> $GITHUB_PATH  # make uv globally available
+    
     - name: Create uv virtual environment
-      run: uv venv
+      run: | 
+        uv venv
+        echo "source .venv/bin/activate" >> $GITHUB_ENV
+  
     - name: Install Dependencies
       run: |
         uv install
+
     - name: Run Tests
       run: |
+        . .venv/bin/activate
         python manage.py test
